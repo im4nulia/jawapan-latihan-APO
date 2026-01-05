@@ -1,0 +1,9 @@
+# Question 2 (Easy arithmetic operator)
+print("Guten morgen!")
+x = input("Enter a number:")
+y = input("Enter another number:")
+num1 = int(x)
+num2 = int(y)
+sumNum = num1 + num2
+print(f"The sum of both of your numbers is {sumNum}!")
+...
