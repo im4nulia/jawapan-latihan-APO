@@ -1,0 +1,10 @@
+# Question 4 (Penggunaan pemboleh ubah bermakna)
+print("HI!")
+print("Insert your length and width and I'll calculate the area of your rectangle")
+a = input("Length:")
+b = input("Width:")
+areaLength = float(a)
+areaWidth = float(b)
+Area = areaLength * areaWidth
+print(f"The area of your rectangle is {Area}!")
+...
