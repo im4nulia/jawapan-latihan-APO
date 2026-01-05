@@ -1,0 +1,16 @@
+# Question 9 (Mix of varities of input & calculations)
+print("Hello!")
+q = input("What is your name?:")
+name = str(q)
+print("What are your elective marks?")
+x = input("Physics:")
+y = input("Chemistry:")
+z = input("Additional Mathematics:")
+mark1 = int(x)
+mark2 = int(y)
+mark3 = int(z)
+totalMarks = mark1 + mark2 + mark3
+print(f"Your total marks is {totalMarks}!")
+averMarks = totalMarks // 3
+print(f"Your average marks is {averMarks}!")
+...
