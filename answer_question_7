@@ -1,0 +1,7 @@
+# Question 7 (Unit conversion)
+print("Hi!")
+q = input("How cold or hot is the weather at your place right now?:")
+cel = float(q)
+tempF = (cel * 9/5) + 32
+print(f"The temperature at your place in Fahrenheit is {tempF}!")
+...
