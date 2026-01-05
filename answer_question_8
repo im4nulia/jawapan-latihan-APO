@@ -1,0 +1,9 @@
+# Question 8 (Pengiraan kewangan mudah)
+print("Hello!")
+x = input("Please enter the price of the Sunghoon photocard that you have bought:")
+price = float(x)
+y = input("How many have you bought?:")
+quantity = int(y)
+totalPrice = price * quantity
+print(f"The total price of your Sunghoon photocards is RM{totalPrice}")
+...
