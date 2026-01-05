@@ -1,4 +1,4 @@
-# Question 9 (Mix of varities of input & calculations)
+# Question 9 (Mix of varieties of input & calculations)
 print("Hello!")
 q = input("What is your name?:")
 name = str(q)
